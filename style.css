@@ -1,0 +1,36 @@
+/*
+ * =========================================================================
+ *  Global
+ * =========================================================================
+ */
+
+body {
+    background: url(GTIYP0R4RE.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.page-wrapper {
+    width: 80%;
+    background-color: #fff;
+    opacity: 0.7;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0; 
+    right: 0;
+
+    margin: auto;
+}
+
+/*
+ * =========================================================================
+ * Typography 
+ * =========================================================================
+ */
+
+body {
+} 
